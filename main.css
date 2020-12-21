@@ -1,0 +1,196 @@
+/* LOGIN FORM --------------------------------*/
+
+#container{
+    background-color: #e7fb65;
+}
+
+.login1{
+    width:460px;
+    background-color: yellow;
+    border: 3px solid black;
+    padding-left: 300px;
+    margin-left: 250px;
+    margin-top:50px;   
+
+}
+
+#loginbutton{
+    width: 195px;
+    margin-left: 71px;
+    padding: 20px;
+    background-color: thistle;
+    border: 1px solid black;
+    font-weight:bold;
+}
+
+.form1{
+    padding:50px;
+    padding-left: 200px;
+    width:500px;
+    background-color: #3dff4c;
+    border: 3px solid black;
+    margin-left: 250px;
+    margin-top:30px;   
+
+}
+
+.form1 input{
+    border: 1px solid black;
+    padding: 5px;
+    padding-right: 35px;
+    padding-left: 35px;
+    margin-left: 40px;
+    text-align: center;
+    font-weight:bold;
+    
+}
+
+/* UPLOAD FORM --------------------------------- */
+
+#container1{
+    background-color: #00cdff;
+    
+}
+.registration1{
+    width:500px;
+    height:50px;
+    background-color: yellow;
+    border: 3px solid black;
+    padding-left: 300px;
+    padding-bottom: 10px;
+    margin-left: 250px;
+    margin-top:20px;   
+
+}
+
+.form2{
+    padding-top:20px;
+    padding-left: 200px;
+    width:600px;
+    margin-top: -20px;
+    background-color: #3dff4c;
+    border: 3px solid black;
+    margin-left: 250px;  
+
+}
+
+.form2 input{
+    width: 200px;
+    border: 1px solid black;
+    padding: 8px 35px 8px 35px;
+    margin-top: -20px;
+    margin-left: 40px;
+    text-align: center;
+    font-weight:bold;
+    
+}
+
+#image1{
+    background-color: white;
+}
+
+#registerButton{
+    width: 195px;
+    margin-top: 10px;
+    margin-left: 70px;
+    background-color: thistle;
+    border: 1px solid black;
+    font-weight:bold;
+}
+
+#registerButton2{
+    width: 230px;
+    margin-top: 10px;
+    margin-left: 50px;
+    padding-right: 60px;
+    background-color: thistle;
+    border: 1px solid black;
+    font-weight:bold;
+}
+
+
+
+
+
+ /* DISPLAY PAGE --------------------------- */
+
+table{
+    width:90%;
+    margin-left: 50px;
+    margin-top: 5px;
+    border: 2px solid black;
+    background-color: #9bfdd9;
+    border-collapse: collapse;
+}
+#details1{
+    margin-left: 50px;
+}
+
+th{
+    border: 1px solid black;
+    text-align: center;
+    margin-right:none;
+    padding:10px;
+}
+td{ 
+    width:400px;
+    padding:10px;
+    border: 1px solid black;
+    padding-left: 70px;
+}
+
+/* 
+table, th, td { 
+    border: 1px solid black; 
+    border-collapse: collapse; 
+        
+    }  */
+
+img{
+    border-radius: 100px;
+    border: 1px solid black;
+}
+
+#display1{
+    background-color: #e7fb65;
+}
+
+.header1{
+    width:95%;
+    height:150px;
+    margin-left:20px;
+    background-color: #fdcf9b;
+    border: 2px solid black;
+}
+
+
+.header2{
+    width:150px;
+    float: right;
+    text-align: center;
+    padding-top: 10px;
+    height:120px;
+    font-size: 20px;
+    background-color: #fdcf9b;
+}
+.header3{
+    width:100px;
+    float: right;
+    height:120px;
+    padding-right: 20px;
+    padding-top: 20px;
+    background-color: #fdcf9b;
+}
+
+.logoutButton{
+    padding: 15px 25px;
+    font-size: 15px;
+    margin:10px;
+    font-weight: bold;
+    background-color: #ffae00;
+    border: 2px solid black;
+
+}
+ 
+
+
